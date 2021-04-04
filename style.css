@@ -173,3 +173,8 @@ main {
 .card-single:last-child div:last-child span {  
   color: #fff;
 }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
