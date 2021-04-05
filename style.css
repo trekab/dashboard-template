@@ -30,6 +30,7 @@
   height: 90px;
   padding: 1rem 0rem 1rem 2rem;
   color: #fff;
+  font-size: .9rem;
 }
 
 .sidebar-brand span {
@@ -129,7 +130,7 @@ header label span {
 }
 
 .search-wrapper {
-  border: 1px solid #ccc;
+  border: 2px solid var(--text-gray);
   border-radius: 30px;
   height: 50px;
   display: flex;
